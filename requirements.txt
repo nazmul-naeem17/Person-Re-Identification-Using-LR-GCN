@@ -1,0 +1,9 @@
+torch>=1.13.1
+torchvision>=0.14.1
+pytorch-lightning>=2.0.0
+joblib
+numpy
+matplotlib
+torchmetrics
+test-tube
+future>=0.17.1
